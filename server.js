@@ -9,7 +9,7 @@ var articles={
 'article-one' : {
     title: 'Article-One|Vishal Singh Rajput' ,
     heading: 'Article One' ,
-    date: 'DEc 25, 2017' ,
+    date: 'Dec 25, 2017' ,
     content:`
            <p>
                This is the content of my first article.This is the content of my first article.This is the content of my first article.This is the content of my first article.This is the content of my first article.This is the content of my first article.
@@ -24,7 +24,7 @@ var articles={
 'article-two': {
     title: 'Article-Two|Vishal Singh Rajput' ,
     heading: 'Article Two' ,
-    date: 'DEc 26, 2017' ,
+    date: 'Dec 26, 2017' ,
     content:`
            <p>
                This is the content of my second article.This is the content of my second article.This is the content of my second article.This is the content of my second article.This is the content of my second article.This is the content of my second article.
@@ -39,7 +39,7 @@ var articles={
 'article-three': {
     title: 'Article-Three|Vishal Singh Rajput' ,
     heading: 'Article Three' ,
-    date: 'DEc 27, 2017' ,
+    date: 'Dec 27, 2017' ,
     content:`
            <p>
                This is the content of my third article.This is the content of my third article.This is the content of my third article.This is the content of my third article.This is the content of my third article.This is the content of my third article.
